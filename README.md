@@ -69,12 +69,12 @@ I also want to hone my other skills like time management, fast adaptability and 
 #### Backend Development
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqepJcsF1PaiUR58G-zfvfaYwq7zWqbVhXOqmOwT6Gw&s" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="express" width="50" height="40"/>](https://expressjs.com)
 [<img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="40" height="40"/>](https://nodejs.org)
+[<img src="https://logowik.com/content/uploads/images/nodejs.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="40" height="40"/>](https://nodejs.org)
 
 #### Mobile App Development
 #### AI/ML/Visuals
 [<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="opencv" width="40" height="40"/>](https://opencv.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="pandas" width="40" height="40"/>](https://pandas.pydata.org/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ts_JL_XhDSZ1tPPuJIhDLoIPcEn0lW3wjM2OZlkCRg&s" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="pandas" width="40" height="40"/>](https://pandas.pydata.org/)
 [<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="pytorch" width="40" height="40"/>](https://pytorch.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="scikit_learn" width="40" height="40"/>](https://scikit-learn.org/)
 
@@ -89,7 +89,7 @@ I also want to hone my other skills like time management, fast adaptability and 
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="git" width="40" height="40"/>](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="docker" width="40" height="40"/>](https://www.docker.com/)
 [<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="illustrator" width="40" height="40"/>](https://www.adobe.com/in/products/illustrator.html)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="photoshop" width="40" height="40"/>](https://www.photoshop.com/en)
+[<img src="https://thumbs.dreamstime.com/b/vinnytsia-ukraine-april-adobe-photoshop-logo-vector-icon-isolated-white-background-adobe-photoshop-logo-vector-icon-isolated-215484951.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="photoshop" width="40" height="40"/>](https://www.photoshop.com/en)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="postman" width="40" height="40"/>](https://postman.com)
 [<img src="https://logowik.com/content/uploads/images/latex6119.logowik.com.webp" width="40" height="40" alt="prisma_logo" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" >](https://www.latex-project.org/)
 
