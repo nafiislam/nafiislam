@@ -59,16 +59,16 @@ I also want to hone my other skills like time management, fast adaptability and 
 #### Frontend Development
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com)
-[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) 
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLSROw0ZcZVseBifq9keJ7f8G-3eFZFbSNQzlFwrgFGg&s" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com)
+[<img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="react" width="40" height="40"/>](https://reactjs.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="svelte" width="40" height="40"/>](https://svelte.dev)
 [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
 
 #### Backend Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="express" width="40" height="40"/>](https://expressjs.com)
-[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) 
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqepJcsF1PaiUR58G-zfvfaYwq7zWqbVhXOqmOwT6Gw&s" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="express" width="50" height="40"/>](https://expressjs.com)
+[<img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="40" height="40"/>](https://nodejs.org)
 
 #### Mobile App Development
