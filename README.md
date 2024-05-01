@@ -4,15 +4,15 @@
 ![nafiislam](https://komarev.com/ghpvc/?username=nafiislam&label=Profile%20views&color=0e75b6&style=flat)
 
 ### Connect with me
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="nafiislam964" height="30" width="40" />](https://twitter.com/nafiislam964)
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="md-muhaiminul-islam-nafi-4b3aa6216" height="30" width="40" />](https://linkedin.com/in/md-muhaiminul-islam-nafi-4b3aa6216)
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="up.islam.1" height="30" width="40" />](https://fb.com/up.islam.1)
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="nafiislam7" height="30" width="40" />](https://instagram.com/nafiislam7)
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="upislam" height="30" width="40" />](https://codeforces.com/profile/upislam)
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="753507340409372753" height="30" width="40" />](https://discordapp.com/users/753507340409372753)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nafiislam964" height="30" width="40" />](https://twitter.com/nafiislam964)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="md-muhaiminul-islam-nafi-4b3aa6216" height="30" width="40" />](https://linkedin.com/in/md-muhaiminul-islam-nafi-4b3aa6216)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="up.islam.1" height="30" width="40" />](https://fb.com/up.islam.1)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nafiislam7" height="30" width="40" />](https://instagram.com/nafiislam7)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="upislam" height="30" width="40" />](https://codeforces.com/profile/upislam)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="753507340409372753" height="30" width="40" />](https://discordapp.com/users/753507340409372753)
 
 ### About me
-<img align="center" src="https://nafiislam.github.io/assets/images/mypic.jpeg" style="border: 1px solid gray;  border-radius: 10px;" alt="Md Muhaiminul Islam Nafi" height="150" width="150" />
+<img align="center" src="https://nafiislam.github.io/assets/images/mypic.jpeg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="Md Muhaiminul Islam Nafi" height="150" width="150" />
 
 **Name**: Md Muhaiminul Islam Nafi
 
@@ -41,57 +41,57 @@ I also want to hone my other skills like time management, fast adaptability and 
 
 ### Skills
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiislam&show_icons=true&locale=en&layout=compact" style="border: 1px solid gray;  border-radius: 10px;" alt="nafiislam" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiislam&show_icons=true&locale=en&layout=compact" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nafiislam" />
 
 #### Programming Languages
-[<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="java" width="40" height="40"/>](https://www.java.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="python" width="40" height="40"/>](https://www.python.org)
-[<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6bYHBXF1WLNDZfyZHYWZkQ.png" style="border: 1px solid gray;  border-radius: 10px;" alt="ejs" width="80" height="40"/>](https://ejs.co/)
+[<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="java" width="40" height="40"/>](https://www.java.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="python" width="40" height="40"/>](https://www.python.org)
+[<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6bYHBXF1WLNDZfyZHYWZkQ.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="ejs" width="80" height="40"/>](https://ejs.co/)
 
 #### Assembly Languages
 - x86
 - MIPS
 
 #### Frontend Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com)
-[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="react" width="40" height="40"/>](https://reactjs.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="svelte" width="40" height="40"/>](https://svelte.dev)
-[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com)
+[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="react" width="40" height="40"/>](https://reactjs.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="svelte" width="40" height="40"/>](https://svelte.dev)
+[<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
 
 #### Backend Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="express" width="40" height="40"/>](https://expressjs.com)
-[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="nodejs" width="40" height="40"/>](https://nodejs.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="express" width="40" height="40"/>](https://expressjs.com)
+[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) 
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="40" height="40"/>](https://nodejs.org)
 
 #### Mobile App Development
 #### AI/ML/Visuals
-[<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="opencv" width="40" height="40"/>](https://opencv.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="pandas" width="40" height="40"/>](https://pandas.pydata.org/)
-[<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="pytorch" width="40" height="40"/>](https://pytorch.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="scikit_learn" width="40" height="40"/>](https://scikit-learn.org/)
+[<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="opencv" width="40" height="40"/>](https://opencv.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="pandas" width="40" height="40"/>](https://pandas.pydata.org/)
+[<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="pytorch" width="40" height="40"/>](https://pytorch.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="scikit_learn" width="40" height="40"/>](https://scikit-learn.org/)
 
 #### Database
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="oracle" width="40" height="40"/>](https://www.oracle.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)
-[<img src="https://logowik.com/content/uploads/images/prisma2244.jpg" width="40" height="40" alt="prisma_logo" style="border: 1px solid gray;  border-radius: 10px;" >](https://www.prisma.io/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="oracle" width="40" height="40"/>](https://www.oracle.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)
+[<img src="https://logowik.com/content/uploads/images/prisma2244.jpg" width="40" height="40" alt="prisma_logo" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" >](https://www.prisma.io/)
 
 #### Tools
-[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="figma" width="40" height="40"/>](https://www.figma.com/)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="git" width="40" height="40"/>](https://git-scm.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="docker" width="40" height="40"/>](https://www.docker.com/)
-[<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="illustrator" width="40" height="40"/>](https://www.adobe.com/in/products/illustrator.html)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="photoshop" width="40" height="40"/>](https://www.photoshop.com/en)
-[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="border: 1px solid gray;  border-radius: 10px;" alt="postman" width="40" height="40"/>](https://postman.com)
-[<img src="https://logowik.com/content/uploads/images/latex6119.logowik.com.webp" width="40" height="40" alt="prisma_logo" style="border: 1px solid gray;  border-radius: 10px;" >](https://www.latex-project.org/)
+[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="figma" width="40" height="40"/>](https://www.figma.com/)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="git" width="40" height="40"/>](https://git-scm.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="docker" width="40" height="40"/>](https://www.docker.com/)
+[<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="illustrator" width="40" height="40"/>](https://www.adobe.com/in/products/illustrator.html)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="photoshop" width="40" height="40"/>](https://www.photoshop.com/en)
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="postman" width="40" height="40"/>](https://postman.com)
+[<img src="https://logowik.com/content/uploads/images/latex6119.logowik.com.webp" width="40" height="40" alt="prisma_logo" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" >](https://www.latex-project.org/)
 
 #### Game Engines
 
