@@ -48,6 +48,22 @@ I also want to hone my other skills like time management, fast adaptability and 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiislam&show_icons=true&locale=en&layout=compact" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nafiislam" />
 
+### Profile summary
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafiislam&theme=dracula)
+
+<div style="display: flex;">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiislam&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafiislam&theme=dracula)
+</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiislam&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafiislam&theme=dracula&utcOffset=8)
+
+</div>
+
 #### Programming Languages
 [<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) 
