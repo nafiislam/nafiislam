@@ -20,9 +20,9 @@
 
 **Phone**: (+880) 1704953445
 
-I am Md. Muhaiminul Islam Nafi. I am currently an undergrad student of Computer Science in BUET.
+I am Md. Muhaiminul Islam Nafi. I am currently an undergrad student of Computer Science at BUET.
 
-I want to build a successful career using my technological knowledge and relevant skills. I want to contribute to the betterment of the company I am allowed to work for.
+I want to build a successful career using my technological knowledge and relevant skills. I want to contribute to the betterment of the place I am allowed to work for.
 
 I also want to hone my other skills like time management, fast adaptability and creativity.
 
@@ -40,7 +40,7 @@ I also want to hone my other skills like time management, fast adaptability and 
 - #### Bangladesh University of Engineering and Technology
     **BSc in Computer Science** 
     
-    CGPA score: **3.95/4.00**
+    CGPA score: **3.96/4.00 (upto 7 terms)**
 
 ### Skills
 
@@ -89,8 +89,9 @@ I also want to hone my other skills like time management, fast adaptability and 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqepJcsF1PaiUR58G-zfvfaYwq7zWqbVhXOqmOwT6Gw&s" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="express" width="50" height="40"/>](https://expressjs.com)
 [<img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) 
 [<img src="https://logowik.com/content/uploads/images/nodejs.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="40" height="40"/>](https://nodejs.org)
+[<img src="https://user-images.githubusercontent.com/84719774/129191080-723b3b46-4e0b-4aa5-8eb9-654c2c025b18.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="70" height="40"/>](https://spring.io/projects/spring-boot)
+[<img src="https://www.webasha.com/uploads/course/images/65193c6298e001696152674.python-django-Training-and-certification.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="60" height="40"/>](https://www.djangoproject.com/)
 
-#### Mobile App Development
 #### AI/ML/Visuals
 [<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="opencv" width="40" height="40"/>](https://opencv.org/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ts_JL_XhDSZ1tPPuJIhDLoIPcEn0lW3wjM2OZlkCRg&s" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="pandas" width="40" height="40"/>](https://pandas.pydata.org/)
@@ -112,7 +113,46 @@ I also want to hone my other skills like time management, fast adaptability and 
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="postman" width="40" height="40"/>](https://postman.com)
 [<img src="https://logowik.com/content/uploads/images/latex6119.logowik.com.webp" width="40" height="40" alt="prisma_logo" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" >](https://www.latex-project.org/)
 
-#### Game Engines
+#### Game development
+[<img src="https://www.una.study/wp-content/uploads/2024/05/Unity-badge.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://unity.com/)
+[<img src="https://www.pygame.org/docs/_images/pygame_logo.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="60" height="40"/>](https://www.pygame.org/news)
+
+#### Content Management
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://wordpress.com/)
+
+### Publications
+
+**Prediction of protein-carbohydrate binding sites from protein primary sequence**  
+*(Under review)*  
+In this study, we propose **StackCBEmbed**, an ensemble machine learning model to effectively classify protein-carbohydrate binding interactions at the residue level. StackCBEmbed combines traditional sequence-based features along with features derived from a pre-trained transformer-based protein language model.  *Link to initial version of the manuscript:*  [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.09.579590v1)
+
+---
+
+**DeepBCTPred: Deep Learning-Based Prediction of Bladder Cancer Tissues from Endoscopic Images**  
+*(Under review)*  
+In this study, we designed a pipeline to generate new images and a novel genetic algorithm to effectively select images from them. Additionally, we combined handcrafted features with learned features.
+
+---
+
+**Predicting Protein-Carbohydrate Binding Sites: A Deep Learning Approach Integrating Protein Language Model Embeddings and Structural Features**  
+*(Manuscript in preparation)*  
+In this study, we created a novel deep learning architecture that integrates various dataset imbalance approaches with structural features.
+
+---
+
+### Awards and Honors
+
+**BUET RISE Grant** 
+
+RISE Student Research Grant [No. S2024-01-004]  *(Grant received)*
+
+![Award_Email](Award_Email.png)
+---
+
+**HONORABLE MENTIONS**  
+MicroProcessor and MicroController project named **Unbeatable Protection: The 5-way Security Vault**
+![hm](hm.png)
+
 
 ### Projects
 - #### OnCampus
