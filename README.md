@@ -112,6 +112,8 @@ I also want to hone my other skills like time management, fast adaptability and 
 [<img src="https://thumbs.dreamstime.com/b/vinnytsia-ukraine-april-adobe-photoshop-logo-vector-icon-isolated-white-background-adobe-photoshop-logo-vector-icon-isolated-215484951.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="photoshop" width="40" height="40"/>](https://www.photoshop.com/en)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="postman" width="40" height="40"/>](https://postman.com)
 [<img src="https://logowik.com/content/uploads/images/latex6119.logowik.com.webp" width="40" height="40" alt="prisma_logo" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" >](https://www.latex-project.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="40" height="40" alt="prisma_logo" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" >](https://www.markdownguide.org/)
+
 
 #### Game development
 [<img src="https://www.una.study/wp-content/uploads/2024/05/Unity-badge.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://unity.com/)
