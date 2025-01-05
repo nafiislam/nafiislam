@@ -1,5 +1,5 @@
-# Hello 👋😊, It is Md Muhaiminul Islam Nafi
-### BSc in Computer Science Engineering
+# Hello 👋😊, I am Md Muhaiminul Islam Nafi
+### Currently studying BSc in Computer Science Engineering
 
 ![nafiislam](https://komarev.com/ghpvc/?username=nafiislam&label=Profile%20views&color=0e75b6&style=flat)
 
