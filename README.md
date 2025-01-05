@@ -16,8 +16,6 @@
 
 **Name**: Md Muhaiminul Islam Nafi
 
-**Profile**: Full stack developer
-
 **Email**: nafiislam964@gmail.com
 
 **Phone**: (+880) 1704953445
@@ -48,7 +46,7 @@ I also want to hone my other skills like time management, fast adaptability and 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiislam&show_icons=true&locale=en&layout=compact" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nafiislam" />
 
-### Profile summary
+### Profile Summary
 
 <div align="center">
 
