@@ -1,5 +1,5 @@
 # Hello 👋😊, I am Md Muhaiminul Islam Nafi
-### Currently studying BSc in Computer Science Engineering
+### BSc graduate in Computer Science Engineering
 
 ![nafiislam](https://komarev.com/ghpvc/?username=nafiislam&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -20,7 +20,7 @@
 
 **Phone**: (+880) 1704953445
 
-I am Md. Muhaiminul Islam Nafi. I am currently an undergrad student of Computer Science at BUET.
+I am Md. Muhaiminul Islam Nafi. I have completed my BSc. degree in Computer Science from BUET.
 
 I want to build a successful career using my technological knowledge and relevant skills. I want to contribute to the betterment of the place I am allowed to work for.
 
@@ -40,7 +40,7 @@ I also want to hone my other skills like time management, fast adaptability and 
 - #### Bangladesh University of Engineering and Technology
     **BSc in Computer Science** 
     
-    CGPA score: **3.96/4.00 (upto 7 terms)**
+    CGPA score: **3.97/4.00**
 
 ### Skills
 
