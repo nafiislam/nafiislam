@@ -122,23 +122,50 @@ I also want to hone my other skills like time management, fast adaptability and 
 #### Content Management
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://wordpress.com/)
 
-### Publications
+### Research Experience
 
-**Prediction of protein-carbohydrate binding sites from protein primary sequence**  
-*(Under review)*  
-In this study, we propose **StackCBEmbed**, an ensemble machine learning model to effectively classify protein-carbohydrate binding interactions at the residue level. StackCBEmbed combines traditional sequence-based features along with features derived from a pre-trained transformer-based protein language model.  *Link to initial version of the manuscript:*  [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.09.579590v1)
+**Predicting C- and S-linked Glycosylation Sites from Protein Sequences Using Protein Language Models**  
+*(Published)*  
+In this study, we created a hybrid deep-learning architecture to predict C- and S-linked glycosylation sites from protein sequences using protein language model embeddings and contextual information. *Link to article:* [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0010482525003075)  
 
----
+---  
+
+**Predicting RNA 5-Hydroxymethylcytosine Modification with Deep Learning Models Using RNA Language Model Embeddings**  
+*(Under revision)*  
+We designed a dual-branch deep learning model architecture to predict RNA 5-Hydroxymethylcytosine modifications from RNA language models and extracted biological interpretations.  
+
+---  
 
 **DeepBCTPred: Deep Learning-Based Prediction of Bladder Cancer Tissues from Endoscopic Images**  
-*(Under review)*  
-In this study, we designed a pipeline to generate new images and a novel genetic algorithm to effectively select images from them. Additionally, we combined handcrafted features with learned features.
+*(Under revision)*  
+In this study, we designed a pipeline to generate new images and a novel genetic algorithm to effectively select images from them. Additionally, we combined handcrafted features with learned features from convolutional neural networks.  
 
----
+---  
+
+**StackGlyEmbed: Prediction of N-linked Glycosylation Sites Using Protein Language Models**  
+*(Under revision)*  
+We proposed **StackGlyEmbed**, a model to predict N-linked glycosylation sites from protein sequences utilizing protein language models leveraging window and per-residue features. *Link to initial version of the manuscript:* [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.12.637996v1.abstract)  
+
+---  
+
+**Prediction of Protein-Carbohydrate Binding Sites from Protein Primary Sequence**  
+*(Under rebuttal)*  
+In this study, we propose **StackCBEmbed**, an ensemble machine learning model to effectively classify protein-carbohydrate binding interactions at the residue level. StackCBEmbed combines traditional sequence-based features along with features derived from a pre-trained transformer-based protein language model. *Link to initial version of the manuscript:* [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.09.579590v1)  
+
+---  
 
 **Predicting Protein-Carbohydrate Binding Sites: A Deep Learning Approach Integrating Protein Language Model Embeddings and Structural Features**  
 *(Manuscript in preparation)*  
-In this study, we created a novel deep learning architecture that integrates various dataset imbalance approaches with structural features.
+In this study, we created a novel deep-learning architecture that combines protein language model embeddings and structural features to predict protein-carbohydrate binding sites.  
+
+---  
+
+**ResLysEmbed: A ResNet-Based Framework for Succinylated Lysine Residue Prediction Using Sequence and Language Model Embeddings**  
+*(Manuscript in preparation)*  
+In this study, we developed a hybrid deep-learning architecture incorporating protein language models to identify succinylated lysine residues.  
+
+---
+
 
 ---
 
