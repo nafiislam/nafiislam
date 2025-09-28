@@ -20,11 +20,11 @@
 
 **Phone**: (+880) 1704953445
 
-I am Md. Muhaiminul Islam Nafi. I have completed my BSc. degree in Computer Science from BUET.
+I am Md. Muhaiminul Islam Nafi. I have completed my BSc degree in Computer Science and Engineering from BUET, Dhaka, Bangladesh, and I am currently working as a full-time Lecturer in the Department of Computer Science and Engineering at United International University, Dhaka.
 
-I want to build a successful career using my technological knowledge and relevant skills. I want to contribute to the betterment of the place I am allowed to work for.
+I aim to build a successful career by leveraging my technological knowledge and research experience in bioinformatics and machine learning. I am passionate about contributing to impactful projects that advance science and society.
 
-I also want to hone my other skills like time management, fast adaptability and creativity.
+Alongside my academic and research work, I also strive to hone essential skills such as teaching, time management, adaptability, and creativity, which I believe are crucial for both professional and personal growth.
 
 ### My portfolio websites
 
