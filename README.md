@@ -126,46 +126,63 @@ I also want to hone my other skills like time management, fast adaptability and 
 
 **Predicting C- and S-linked Glycosylation Sites from Protein Sequences Using Protein Language Models**  
 *(Published)*  
-In this study, we created a hybrid deep-learning architecture to predict C- and S-linked glycosylation sites from protein sequences using protein language model embeddings and contextual information. *Link to article:* [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0010482525003075)  
-
----  
-
-**Predicting RNA 5-Hydroxymethylcytosine Modification with Deep Learning Models Using RNA Language Model Embeddings**  
-*(Under revision)*  
-We designed a dual-branch deep learning model architecture to predict RNA 5-Hydroxymethylcytosine modifications from RNA language models and extracted biological interpretations.  
-
----  
-
-**DeepBCTPred: Deep Learning-Based Prediction of Bladder Cancer Tissues from Endoscopic Images**  
-*(Under revision)*  
-In this study, we designed a pipeline to generate new images and a novel genetic algorithm to effectively select images from them. Additionally, we combined handcrafted features with learned features from convolutional neural networks.  
+Developed a hybrid deep-learning architecture to predict C- and S-linked glycosylation sites from protein sequences using protein language model embeddings and contextual information. *Link to article:* [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0010482525003075)  
 
 ---  
 
 **StackGlyEmbed: Prediction of N-linked Glycosylation Sites Using Protein Language Models**  
-*(Under revision)*  
-We proposed **StackGlyEmbed**, a model to predict N-linked glycosylation sites from protein sequences utilizing protein language models leveraging window and per-residue features. *Link to initial version of the manuscript:* [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.02.12.637996v1.abstract)  
-
----  
-
-**Prediction of Protein-Carbohydrate Binding Sites from Protein Primary Sequence**  
-*(Under rebuttal)*  
-In this study, we propose **StackCBEmbed**, an ensemble machine learning model to effectively classify protein-carbohydrate binding interactions at the residue level. StackCBEmbed combines traditional sequence-based features along with features derived from a pre-trained transformer-based protein language model. *Link to initial version of the manuscript:* [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.09.579590v1)  
-
----  
-
-**Predicting Protein-Carbohydrate Binding Sites: A Deep Learning Approach Integrating Protein Language Model Embeddings and Structural Features**  
-*(Manuscript in preparation)*  
-In this study, we created a novel deep-learning architecture that combines protein language model embeddings and structural features to predict protein-carbohydrate binding sites.  
+*(Published)*  
+Proposed StackGlyEmbed, a model that predicts N-linked glycosylation sites from protein sequences by leveraging protein language models with window and per-residue features. *Link to article:* [Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf146/8177143)  
 
 ---  
 
 **ResLysEmbed: A ResNet-Based Framework for Succinylated Lysine Residue Prediction Using Sequence and Language Model Embeddings**  
-*(Manuscript in preparation)*  
-In this study, we developed a hybrid deep-learning architecture incorporating protein language models to identify succinylated lysine residues.  
+*(Published)*  
+Developed a hybrid deep-learning architecture incorporating protein language models to identify succinylated lysine residues. *Link to article:* [Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf198/8239949)  
 
----
+---  
 
+**NFEmbed: Modeling Nitrogenase Activity via Classification and Regression with Pretrained Protein Embeddings**  
+*(Published)*  
+Developed stacking ensemble models to predict microbial strains with high nitrogenase potential using protein language model embeddings and achieved superior performance over state-of-the-art methods. *Link to article:* [Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbaf204/8240278)  
+
+---  
+
+**Predicting RNA 5-Hydroxymethylcytosine Modification with Deep Learning Models Using RNA Language Model Embeddings**  
+*(Under Revision)*  
+Designed a dual-branch deep learning model architecture to predict RNA 5-Hydroxymethylcytosine modifications using RNA language models and extracted biological interpretations.  
+
+---  
+
+**DeepBCTPred: Deep Learning-Based Prediction of Bladder Cancer Tissues from Endoscopic Images**  
+*(Under Review — CSE472 Machine Learning Project)*  
+Developed a pipeline to generate new images and a novel genetic algorithm to effectively select images from them and combined handcrafted features with learned features from convolutional neural networks.  
+
+---  
+
+**Prediction of Protein-Carbohydrate Binding Sites from Protein Primary Sequence**  
+*(Under Rebuttal)*  
+Developed StackCBEmbed, an ensemble machine learning model for effective classification of protein-carbohydrate binding interactions at the residue level, and integrated sequence-based features with pre-trained transformer-based protein language model embeddings. *Preprint:* [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.02.09.579590v1)  
+
+---  
+
+**Predicting Protein-Carbohydrate Binding Sites: A Deep Learning Approach Integrating Protein Language Model Embeddings and Structural Features**  
+*(Under Review — Undergraduate Thesis)*  
+Designed a novel deep-learning architecture that integrates protein language model embeddings with structural features for predicting protein-carbohydrate binding sites.  
+
+---  
+
+**Expanded Strategy Space Improves Nash Solution by Increased Degrees of Freedom**  
+*(Manuscript in Preparation — CSE462 Algorithm Engineering Project)*  
+Investigated algorithmic improvements for solving the Nash Equilibrium problem and focused on approximation algorithms and meta-heuristic approaches, such as replicator dynamics, to enhance computational efficiency.  
+
+---  
+
+**OptEmbed: A Multi-Task Framework Using Protein Language Model Embeddings and Sequential Features to Predict Optimal Temperature, Melting Temperature, and Optimal pH of Enzymes**  
+*(Manuscript in Preparation)*  
+Introduced OptEmbed, a protein language model–based framework integrating sequential features to predict enzyme parameters (Topt, Tm, pHopt) with improved accuracy and interpretability over state-of-the-art methods.  
+
+---  
 
 ---
 
