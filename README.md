@@ -42,10 +42,10 @@ Adjunct Lecturer in the Department of CSE at BUET from November 2025 to
 April 2026. I am also interested in software engineering, web
 development, cloud deployment, and applied machine-learning systems.
 
-### My portfolio websites
+### My portfolio website
 
--   [Website 1](https://nafiislam.github.io/)
--   [Website 2](https://nafiislam.wuaze.com/)
+-   [Website](https://nafiislam.github.io/)
+
 
 ### Education
 
@@ -79,8 +79,6 @@ development, cloud deployment, and applied machine-learning systems.
     **November 2025 -- April 2026**
 
 ### Skills
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiislam&show_icons=true&locale=en&layout=compact" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nafiislam" />
 
 ### Profile Summary
 
@@ -159,12 +157,12 @@ development, cloud deployment, and applied machine-learning systems.
 
 #### Game development
 
-[<img src="https://www.una.study/wp-content/uploads/2024/05/Unity-badge.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://unity.com/)
+[<img src="[https://www.una.study/wp-content/uploads/2024/05/Unity-badge.png](https://gamefromscratch.com/wp-content/uploads/2021/10/Unity_2021_logo.svg_-1024x358.png)" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://unity.com/)
 [<img src="https://www.pygame.org/docs/_images/pygame_logo.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="60" height="40"/>](https://www.pygame.org/news)
 
 #### Content Management
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://wordpress.com/)
+[<img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://wordpress.com/)
 
 ### Skill Summary
 
