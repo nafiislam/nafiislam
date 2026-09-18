@@ -128,7 +128,7 @@ development, cloud deployment, and applied machine-learning systems.
 [<img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nextjs" width="40" height="40"/>](https://nextjs.org/)
 [<img src="https://logowik.com/content/uploads/images/nodejs.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="40" height="40"/>](https://nodejs.org)
 [<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*69OXNxfqIfRNhnBRqTH0Gg.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="70" height="40"/>](https://spring.io/projects/spring-boot)
-[<img src="https://www.webasha.com/uploads/course/images/65193c6298e001696152674.python-django-Training-and-certification.jpg" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="60" height="40"/>](https://www.djangoproject.com/)
+[<img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="nodejs" width="60" height="40"/>](https://www.djangoproject.com/)
 
 #### AI/ML/Visuals
 
@@ -157,7 +157,7 @@ development, cloud deployment, and applied machine-learning systems.
 
 #### Game development
 
-[<img src="[https://www.una.study/wp-content/uploads/2024/05/Unity-badge.png](https://gamefromscratch.com/wp-content/uploads/2021/10/Unity_2021_logo.svg_-1024x358.png)" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://unity.com/)
+[<img src="https://gamefromscratch.com/wp-content/uploads/2021/10/Unity_2021_logo.svg_-1024x358.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="40" height="40"/>](https://unity.com/)
 [<img src="https://www.pygame.org/docs/_images/pygame_logo.png" style="border: 1px solid gray;  border-radius: 10px; background-color: white;" alt="mysql" width="60" height="40"/>](https://www.pygame.org/news)
 
 #### Content Management
